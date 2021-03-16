@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 require("dotenv").config();
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workouts", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout_tracker", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
