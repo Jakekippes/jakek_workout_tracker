@@ -4,6 +4,10 @@
   
 This application allows the user to add an exercise of their choice to be stored in a database. Then they can track their different workouts with a dashboard.
 
+## Deployed Link
+
+https://jakekippes.github.io/jakek_workout_tracker/
+
 ## Screenshots
 
 ![Last Workout](/public/assets/images/last_workout.PNG?raw=true "Last Workout")
